@@ -56,4 +56,4 @@ To apply new filter-text for recording, new recording should be started.
 ###### Select log level
 ![loglevel](https://github.com/fatangare/LogcatViewer/blob/master/Images/loglevel.png)  
 ###### Notification
-![loglevel](https://github.com/fatangare/LogcatViewer/blob/master/Images/notification.png)    
+![loglevel](./Images/notification.png)    
